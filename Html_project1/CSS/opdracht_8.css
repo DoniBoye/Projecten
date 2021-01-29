@@ -1,0 +1,45 @@
+.container {
+    margin-top: 30px;
+    width: 0 auto;
+    height: 0 auto;
+    float: left;
+    display: inline-flex;
+}
+
+.left {
+    width: 300px;
+    height: 600px;
+    background-color: black;
+    border-radius: 200px 0px 0px 200px;
+    margin-left: 45px;
+}
+
+.middle {
+    width: 1180px;
+    height: 600px;
+    background-color: black;
+    margin-left: 10px;
+}
+
+.middle_white {
+    width: 1000px;
+    height: 500px;
+    background-color: white;
+    margin-left: 90px;
+    margin-top: 50px;
+}
+
+.middle_white h1{
+    color: blue;
+    font-size: 90px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.right {
+    width: 300px;
+    height: 600px;
+    background-color: black;
+    margin-left: 10px;
+    border-radius: 0px 200px 200px 0px;
+}
